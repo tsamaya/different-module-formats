@@ -1,0 +1,8 @@
+{
+  "name": "different-module-formats",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tsamaya/different-module-formats.git",
+  "author": "Arnaud Ferrand <arferrand@gmail.com>",
+  "license": "MIT"
+}
